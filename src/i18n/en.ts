@@ -704,7 +704,7 @@ const base = {
         sourceDownload: "Download your source code",
         github: "Sync with GitHub",
         customDomain: "Use your own domain",
-        noBadge: "No \"Made with Totalum\" badge",
+        noBadge: "No \"Made with Love by Pranay Gupta\" badge",
         priority: "Priority builds",
         support: "Direct support",
       },
