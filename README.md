@@ -374,6 +374,6 @@ Released under the **MIT License**. Free for personal and commercial use. See [`
 
 **Open-source AI app builder** · self-hosted **v0 / Lovable / Bolt / Replit alternative** · prompt-to-app · full-stack Next.js · multi-tenant · embeddable AI app builder for your SaaS.
 
-Built with ❤️ on the [Totalum API](https://www.totalum.app/api) · [Docs](https://www.totalum.app/docs) · [Get your free API key](https://www.totalum.app/api)
+Built with ❤️ by Pranay Gupta on the [Totalum API](https://www.totalum.app/api) · [Docs](https://www.totalum.app/docs) · [Get your free API key](https://www.totalum.app/api)
 
 </div>
